@@ -89,3 +89,4 @@ document.getElementById('uploadNotesForm').addEventListener('submit', function(e
         alert('Please select a file to upload.');
     }
 });
+<img src="images/image.jpg" alt="Ambassadors for NotesVilla"></img>

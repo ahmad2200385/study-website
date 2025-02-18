@@ -146,3 +146,136 @@ textarea {
 input[type="file"] {
     margin-bottom: 10px;
 }
+/* Ambassadors Section */
+.ambassadors {
+    background: #f9f9f9;
+    padding: 50px 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .ambassadors-content {
+    display: flex;
+    align-items: center;
+    max-width: 1200px;
+    width: 100%;
+  }
+  
+  .ambassadors-text {
+    flex: 1;
+    padding-right: 20px;
+  }
+  
+  .ambassadors-text h2 {
+    font-size: 2.5rem;
+    color: #007BFF;
+  }
+  
+  .ambassadors-text p {
+    font-size: 1.1rem;
+    color: #555;
+    margin: 20px 0;
+  }
+  
+  .ambassadors-image {
+    flex: 1;
+    text-align: center;
+  }
+  
+  .ambassadors-image img {
+    max-width: 100%;
+    border-radius: 10px;
+  }
+  
+  /* Why NotesVilla Section */
+  /* Ambassadors Section */
+.ambassadors {
+    background: #f9f9f9;
+    padding: 50px 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .ambassadors-content {
+    display: flex;
+    align-items: center;
+    max-width: 1200px;
+    width: 100%;
+    gap: 40px; /* Adds space between text and image */
+  }
+  
+  .ambassadors-text {
+    flex: 1;
+  }
+  
+  .ambassadors-text h2 {
+    font-size: 2.5rem;
+    font-family: sans-serif;
+    color: #b1c102;
+    margin-bottom: 20px;
+  }
+  
+  .ambassadors-text p {
+    font-size: 1.1rem;
+    color: #555;
+    margin: 20px 0;
+  }
+  
+  .ambassadors-image {
+    flex: 1;
+    text-align: center;
+  }
+  
+  .ambassadors-image img {
+    max-width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow */
+  }
+  
+  /* Why NotesVilla Section */
+  .why-notesvilla {
+    padding: 50px 20px;
+    text-align: center;
+  }
+  
+  .why-notesvilla h2 {
+    font-size: 2.5rem;
+    color: #b1c102;
+    margin-bottom: 40px;
+  }
+  
+  .features {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  .feature-card {
+    background: #fff;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 30%;
+    text-align: center;
+  }
+  
+  .feature-card i {
+    font-size: 2rem;
+    color: #28a745;
+    margin-bottom: 10px;
+  }
+  
+  .feature-card h3 {
+    font-size: 1.5rem;
+    color: #333;
+  }
+  
+  .feature-card p {
+    font-size: 1rem;
+    color: #777;
+  }
+  
+ 
